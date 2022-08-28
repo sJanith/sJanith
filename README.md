@@ -9,6 +9,7 @@
 
 <img align = "left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=sJanith&show_icons=true&theme=algolia"/>
 
+
 <img align = "left" width="47%" height = "170"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sJanith&layout=compact"/>
 
 <h3 align="left">Connect with me:</h3>
