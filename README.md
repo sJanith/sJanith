@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Shamila Janith</h1>
 <h3 align="center">A passionate Student Developer.</h3>
 
-<img align = "left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=sJanith&show_icons=true&theme=algolia"/>
+<img align = "left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=sJanith&show_icons=true&theme=yeblu"/>
 <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sJanith&langs_count=8"/> -->
 
 <!-- *Uncomment to show language stats
