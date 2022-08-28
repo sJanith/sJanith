@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sJanith
-- 👀 I’m interested in Cetworking and Network Configuration.
+- 👀 I’m interested in Networking and Network Configuration.
 - 🌱 I’m currently learning Vue JS and Typescript
 - 💞️ I’m looking to collaborate on free and Open Source Projects
 - 📫 How to reach me sj.maxg@gmail.com
