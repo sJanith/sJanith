@@ -7,6 +7,10 @@
 <h1 align="center">Hi 👋, I'm Shamila Janith</h1>
 <h3 align="center">A passionate Student Developer.</h3>
 
+<img align = "left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=sJanith&show_icons=true&theme=algolia"/>
+
+<img align = "left" width="47%" height = "170"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sJanith&layout=compact"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
