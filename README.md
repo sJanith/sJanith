@@ -8,7 +8,7 @@
 <h3 align="center">A passionate Student Developer.</h3>
 
 <img align = "left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=sJanith&show_icons=true&theme=algolia"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sJanith&langs_count=8"/>
+<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sJanith&langs_count=8"/> -->
 
 <!-- *Uncomment to show language stats
 <img align = "left" width="47%" height = "170"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sJanith&layout=compact"/>
